@@ -9,3 +9,7 @@
 - README.txt 수정
 - test.js수정
 - test3.js 생성
+
+
+[두번째 수정 : feature/hd/nav/lyj2 작업]
+-- lyj2 : test1 js 수정
