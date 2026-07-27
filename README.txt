@@ -4,3 +4,8 @@
 - feature/hd/nav/lyj 소스 수정 1
 
 - feature/hd/nav/lyj2 브랜치 생성 후 내용 추가
+
+[첫번째 수정 : feature/hd/nav/lyj2 작업]
+- README.txt 수정
+- test.js수정
+- test3.js 생성
